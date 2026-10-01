@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I am Homith
+
+B.Tech student | Learning Java & Software development
+projects
+● Smart waste segregation dustbin
+Currently learning
+●Java 
+●Data structures & Algorithms
 
 <!--
 **thehomith/thehomith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
